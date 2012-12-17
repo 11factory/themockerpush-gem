@@ -1,7 +1,7 @@
 # Themockerpush - iPhone push notifications as a service
 
 **TheMockerPush** aims to be easy iphone notifications pushing.
-This gems is a wrapper of the [REST API provided](http://www.themockerpush.com/documentation) by themockerpush.
+This gems is a wrapper of the [REST API provided](http://www.themockerpush.com/documentation) by [themockerpush](http://www.themockerpush.com/).
 
 ## Installation
 
