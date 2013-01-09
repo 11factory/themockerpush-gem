@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["laurent@11factory.fr"]
   gem.description   = %q{iPhone push notifications as a service - client}
   gem.summary       = %q{iPhone push notifications as a service - client}
-  gem.homepage      = "http://www.themockerpush.com"
+  gem.homepage      = "https://github.com/11factory/themockerpush-gem"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
